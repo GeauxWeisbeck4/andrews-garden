@@ -11,5 +11,5 @@ updates:
       interval: "weekly"
     ignore:
       - dependency-name: "@sindresorhus/slugify"
-        # For slugify, ignore all updates.
+        For slugify, ignore all updates.
         
